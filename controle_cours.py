@@ -3,11 +3,15 @@ def sup21(n):
     print("False")
   else :
     print("True")
-  return
+return n
 
 
 def pairs(l):
+  for elements in l:
+    l = l[] % 2  
+return l
 
+print(l)
 
 
 
