@@ -1,5 +1,4 @@
 
-print("Combien d'anagrammes possibles ?")
 
 
 def liste_anagrammes(mot) :
@@ -12,4 +11,4 @@ def liste_anagrammes(mot) :
 	return liste
 	
 
-print(liste_anagrammes("abc"))
+
